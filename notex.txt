@@ -1,0 +1,2 @@
+we install nodemon because we cant save changes on the server while the server is running .
+we install dotenv package to run our server in different systems
